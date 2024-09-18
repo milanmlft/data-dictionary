@@ -1,6 +1,6 @@
 AMR data
 
-Last updated on 2024/09/18
+Updated on 2024/09/18
 Authors: Milan
 
 100,000 rows of 12 variables
